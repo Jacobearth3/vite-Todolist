@@ -26,4 +26,8 @@
  - [x] ปรับแต่ง CSS สำหรับโปรแกรม
 
 ## Credit
+<<<<<<< HEAD
 Oran W. - Software Developer 
+=======
+Oran W. - Software Developer 
+>>>>>>> 71a00656fc0717a1d8594d11f9adb22ad7c57de9
